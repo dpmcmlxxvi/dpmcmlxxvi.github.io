@@ -1,6 +1,6 @@
 {
   "name": "dpmcmlxxvi",
   "tagline": "",
-  "body": "### Current repositories\r\n\r\nName  | Description\r\n----- | -------------\r\n[clistats](https://github.com/dpmcmlxxvi/clistats) | A C++ application to compute statistics for a stream of input numbers.\r\n[clitestbed](https://github.com/dpmcmlxxvi/clitestbed) | A C++ application test bed to run a suite of tests on a program.\r\n[olexp](https://github.com/dpmcmlxxvi/olexp) | A Javascript library that combines OpenLayers with a layout manager.\r\n[pixelscan](https://github.com/dpmcmlxxvi/pixelscan) | A Python library to scan pixels on a grid in a variety of spatial patterns.\r\n",
+  "body": "### [Current repositories](https://github.com/dpmcmlxxvi)\r\n\r\nName  | Description\r\n----- | -------------\r\n[clistats](https://github.com/dpmcmlxxvi/clistats) | A C++ application to compute statistics for a stream of input numbers.\r\n[clitestbed](https://github.com/dpmcmlxxvi/clitestbed) | A C++ application test bed to run a suite of tests on a program.\r\n[olexp](https://github.com/dpmcmlxxvi/olexp) | A Javascript library that combines OpenLayers with a layout manager.\r\n[pixelscan](https://github.com/dpmcmlxxvi/pixelscan) | A Python library to scan pixels on a grid in a variety of spatial patterns.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
